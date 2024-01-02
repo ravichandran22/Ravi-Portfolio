@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://jamunashri.netlify.app/',
+  homepage: 'https://ravichandran22.github.io/Ravi-Portfolio/',
   title: 'RC',
 }
 
