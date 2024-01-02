@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ravi-Portfolio/static/css/main.c088a03d.css",
+    "main.js": "/Ravi-Portfolio/static/js/main.89f04470.js",
+    "index.html": "/Ravi-Portfolio/index.html",
+    "main.c088a03d.css.map": "/Ravi-Portfolio/static/css/main.c088a03d.css.map",
+    "main.89f04470.js.map": "/Ravi-Portfolio/static/js/main.89f04470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c088a03d.css",
+    "static/js/main.89f04470.js"
+  ]
+}
